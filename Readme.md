@@ -3,7 +3,7 @@
 
 [![An image of @kushalsr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kushalsr)](https://holopin.io/@kushalsr)
 
-<h1 align="center">Hi 👋, I'm Kushal Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Web Developer.</h3>
 
 
@@ -19,7 +19,7 @@ Experienced in Front-End and Backend-Technologies.</p>
 
 - 💬 Ask me about **MERN, AWS, LINUX, C++, PYTHON**
 
-- 📫 How to reach me **thekushalsr@gmail.com**
+- 📫 How to reach me **rkkr.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
