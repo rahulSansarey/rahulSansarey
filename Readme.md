@@ -1,7 +1,7 @@
 
 <!-- ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/KushalSr/KushalSr/assets/66409016/0b690f51-8ab2-4605-b3bf-24d172f377fd) -->
 
-[![An image of @kushalsr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kushalsr)](https://holopin.io/@kushalsr)
+[![An image of @rahulwork's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulwork)](https://holopin.io/@rahulwork)
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Web Developer.</h3>
@@ -36,7 +36,7 @@ Experienced in Front-End and Backend-Technologies.</p>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KushalSr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rahulSansarey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KushalSr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalSr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -48,4 +48,4 @@ Experienced in Front-End and Backend-Technologies.</p>
 </p>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kushalsr&bg_color=0f0f0f&color=dc143c&line=dc143c&point=dc143c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rahul's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulSansarey&bg_color=0f0f0f&color=dc143c&line=dc143c&point=dc143c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
